@@ -1,0 +1,30 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.top-content {
+    background-color: rgb(249, 233, 210);
+    position: relative;
+    height:40px;
+
+   
+}
+.logo {
+    display: inline;
+    position: absolute;
+left: 400px;
+top: 7px;
+
+    
+    
+}
+img{
+    padding-left: 10px;
+}
+.top-para{
+    display: inline;
+    position: absolute;
+    left: 33%;
+    top: 7.5px;
+    font-size: 20px;
+}
